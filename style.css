@@ -1,0 +1,44 @@
+@import url('https://fonts.google.com/specimen/Zeyada?query=zeyada');
+
+.paper {
+    padding: 100px;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('images/bg1.png');
+    background-size: 800px;
+    background-position: center;
+}
+
+.paper {
+    border: 5px solid black;
+    position: absolute;
+    background-image: url(images/hhhh.jpg);
+    background-position: center;
+    padding: 50px 100px;
+    transform: rotateZ('-5deg');
+    box-shadow: 10px 5px 15px 0px rgba(0,0,0,5);
+    background-size: 500px;
+    }
+
+.paper {
+ padding: 5%;
+    width: 30%;
+   text-align: center;
+    font-size: 25px;
+}
+
+p {
+ font-family: comic sans-serif, cursive;
+ font-weight: bold;
+
+}
+
+.imagex {
+    padding: 10%;
+
+}
